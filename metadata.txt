@@ -1,7 +1,7 @@
 ---
 title:
 - type: main
-  text: OpenSSL cheatsheet
+  text: SoX cheatsheet
 creator:
 - role: author
   text: Girish Venkatachalam
@@ -9,5 +9,5 @@ description: Simple cheetsheet curated from various websites
 rights: CC license
 language: en-US
 stylesheet: epub.css
-cover-image: cover.png
+cover-image: covers/sox-cover.png
 ...
