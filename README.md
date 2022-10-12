@@ -18,7 +18,7 @@ Template for creating epub books from markdown using `pandoc`.
 ### Create Book
 
 Replace contents of `
-   - metadata.txt`, 
+   - `metadata.txt`, 
    - `book.md`, 
    - `cover.jpg` 
 with your own content.
@@ -33,3 +33,7 @@ Your book will be exported as `book.pdf`.
 ### Contact
 
 [E-mail](mailto:girish@spamcheetah.com)
+
+or
+
+[Tweet](https://twitter.com/girish1729)
