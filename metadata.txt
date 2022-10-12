@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: OpenSSL cheatsheet
+creator:
+- role: author
+  text: Girish Venkatachalam
+description: Simple cheetsheet curated from various websites
+rights: CC license
+language: en-US
+stylesheet: epub.css
+cover-image: cover.png
+...

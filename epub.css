@@ -1,0 +1,59 @@
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+body {
+  margin: 5%;
+  font-size: medium;
+  font-family: Roboto;
+  line-height: 2.75;
+}
+
+code { font-family: monospace; }
+
+h1 { text-align: left; color: black; }
+h2 { text-align: left; color: blue; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: Roboto;
+}
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
