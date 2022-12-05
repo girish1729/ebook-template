@@ -1,4 +1,4 @@
-# 50 interesting Linux command lines
+# 75 interesting Linux command lines
 
 1. Convert CRLF terminated files to just CR
 
@@ -306,3 +306,132 @@ sha256sum < file.txt
 ```shell
 $ ifstat
 ```
+
+51. Find directories and nuke them
+
+```shell
+$ find . -name mango -type d | xargs rm -rf
+```
+
+52. Prints random quote or cookie
+
+```shell
+$ fortune
+```
+
+53. Compress files using zstd
+```shell
+$ zstd file.bin
+```
+
+54. Decompress using zstd
+```shell
+$ unzstd compressed.zstd
+```
+
+55. Record screencast video
+```shell
+$ peek
+```
+
+56. Download youtube video in mp4
+```shell
+$ yt-dlp -f mp4 https://youtu.be/XXXXX
+```
+
+57. FTP client with superpowers
+```shell
+$ lftp <URL>
+```
+
+58. Show statistics and counters
+```shell
+$ conky
+```
+
+59. Show bandwidth usage
+```shell
+$ ifstat -b
+```
+
+60. Start a TCP server at port 1234
+```shell
+$ nc -l -p 1234
+```
+
+61. Connect to server using netcat
+```shell
+$ nc 127.0.0.1 1234
+```
+
+62. Generate strong password
+```shell
+$ pwgen
+```
+
+63. Generate lookalike domains
+```shell
+$ dnstwist google.com
+```
+
+64. anagram generator
+```shell
+$ an mango
+```
+
+65. Profile execution of a program
+```shell
+$ time <cmd>
+```
+
+66. Save changes to disk
+```shell
+$ sync
+```
+
+67. Figure out USB or SSD or HDD performance
+```shell
+$ iostat
+```
+
+68. Find out bandwidth between two point
+```shell
+$ bing host1 host2
+```
+
+69. Scan for machines in local network
+```shell
+$ fping -g 192.168.1.0/24
+```
+
+70. Colored less
+```shell
+$ most <file>
+```
+
+71. JSON power tool
+```shell
+$ jq
+```
+
+72. YAML power tool
+```shell
+$ yq
+```
+
+73. Search for man pages
+```shell
+$ apropos string
+```
+
+74. Indent javascript
+```shell
+$ js-beautify file.js
+```
+
+75. Capture screenshot
+```shell
+$ sleep 3; import foo.png
+```
+
+

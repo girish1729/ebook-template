@@ -27,14 +27,18 @@ I show in the below video 3 ways.
 - Ctrl-Z which suspends the job (works only in command mode)
 - :wq which saves and exits
 - :q! which exits without saving.
+- SHIFT-ZZ in normal mode
 
-[![Exiting from vim](gifs/exiting.gif)](https://youtu.be/jjslfiW4Vrs)
+[![Exiting from vim](https://i.imgur.com/TnFMveF.gif)](https://i.imgur.com/TnFMveF.gif)
 
 Most people struggle due to not knowing if you are in command mode or
 insert mode. That is a problem in vi.
 
 In vim however you can clearly see that at the bottom left of the
 screen.
+
+I added `SHIFT-ZZ` later since this was suggested by a reader on
+HackerNoon website.
 
 ## Reading text files into vim buffer
 
@@ -44,7 +48,7 @@ we can easily copy paste instead of using the copy buffer supported by
 vim which uses the `v` keystroke or the `y` or `yy` keys.
 
 
-[![Reading from file](gifs/reading-file.gif)](https://youtu.be/r83OZ-AD8i0)
+[![Reading from file](https://i.imgur.com/jHb45vO.gif)](https://i.imgur.com/jHb45vO.gif)
 
 Once you read contents of a file you can do various things with it. You
 can go to a particular line and insert the external file.
@@ -64,7 +68,7 @@ This could be used with `curl` and `-q` switch like this.
 
 There are various tricks we can use too.
 
-[![Reading shell command output](gifs/reading-ouput-cmd.gif)](https://youtu.be/qjH_KxOT1c0)
+[![Reading shell command output](https://i.imgur.com/BPQPfu3.gif)](https://i.imgur.com/BPQPfu3.gif)
 
 ## Writing a part of buffer to a file
 
@@ -74,7 +78,7 @@ portions of the buffer to the external file.
 We can simply select using the `v` key or simply use colon command for
 line ranges.
 
-[![Writing buffer to file](gifs/writing-buffer-to-file.gif)](https://youtu.be/x3fr6xq6cWU)
+[![Writing buffer to file](https://i.imgur.com/ccYqayX.gif)](https://i.imgur.com/ccYqayX.gif)
 
 Of course this means that you can write out the entire file to external
 file too.
@@ -97,7 +101,7 @@ The colon command with line range works too.
 
 will delete lines 4 to 80 including both lines.
 
-[![Deleting lines](gifs/deleting-lines.gif)](https://youtu.be/lsoPSCnNpjk)
+[![Deleting lines](https://i.imgur.com/vkSqcir.gif)](https://i.imgur.com/vkSqcir.gif)
 
 In the video we see how we can delete easily and also using the `v`
 stroke and `x` which helps us get rid of text as well.
@@ -125,7 +129,7 @@ this.
 This will ensure that the special characters are not interpreted as such
 and that they are deemed as regular text.
 
-[![Search and replace](gifs/search-and-replace.gif)](https://youtu.be/gk5bsn_eLfE)
+[![Search and replace](https://i.imgur.com/D9PilO3.gif)](https://i.imgur.com/D9PilO3.gif)
 
 Of course search and replace also operates on regions just like any
 other vim command that operates on ranges(mostly line ranges).
@@ -142,14 +146,14 @@ well.
 Then a full screen forward is a `Ctrl-F` and a full screen backward is
 `Ctrl-B`. But you also have `Ctrl-d` for half screen forward and so on.
 
-[![Small movement](gifs/small-movement.gif)](https://youtu.be/xkQiDOi73EM)
+[![Small movement](https://i.imgur.com/S792yRt.gif)](https://i.imgur.com/S792yRt.gif)
 
 Then you have big movements like `gg` to go to top end of the buffer and
 `G` to go to the very end.
 
 You can also use `g` as a command to operate using movement.
 
-[![Big movement](gifs/big-movement.gif)](https://youtu.be/it4H9bKFGb4)
+[![Big movement](https://i.imgur.com/4qZkGTZ.gif)](https://i.imgur.com/4qZkGTZ.gif)
 
 Then you have the `Ctrl-E` and `Ctrl-y` to move forward and backward
 regardless of where the cursor is. That is quite useful too.
@@ -168,7 +172,7 @@ This opens limited files in separate tabs. If there are 50 files then 50
 tabs can't be opened. In such cases you must depend on the next chapter
 to go to next files pressing `:n` colon command.
 
-[![Open a file per tab](gifs/open-multiple-tabs.gif)](https://youtu.be/j1FGZYVpajk)
+[![Open a file per tab](https://i.imgur.com/9dfWnU7.gif)](https://i.imgur.com/9dfWnU7.gif)
 
 Multi tab editing is pretty cool and I use it often.
 
@@ -192,7 +196,7 @@ method.
 That way you can do search and replace or deleting the first few lines
 or last few lines or whatever you wish to do.
 
-[![Operate on all tabs](gifs/operate-on-all-tabs.gif)](https://youtu.be/6IGeA5zz5bA)
+[![Operate on all tabs](https://i.imgur.com/vC2N7zC.gif)](https://i.imgur.com/vC2N7zC.gif)
 
 Nowadays all Vim releases support tabs and please do not forget to power
 your editing using tabs.
@@ -214,7 +218,7 @@ The keys to remember are
 These two are pressed in `command mode` to switch tabs forward or
 backward.
 
-[![Switching between tabs](gifs/switching-tabs.gif)](https://youtu.be/5eIb1bBN-xw)
+[![Switching between tabs](https://i.imgur.com/ccE0vVc.gif)](https://i.imgur.com/ccE0vVc.gif)
 
 Tabbed editing is really nice and takes very less time to master.
 
@@ -244,7 +248,7 @@ to go to next file and previous file respectively.
 Since the file names are given at the bottom of the buffer things are
 quite easy.
 
-[![Editing files without tabs](gifs/switching-files-without-tabs.gif)](https://youtu.be/KoKDysYETdc)
+[![Editing files without tabs](https://i.imgur.com/WISydCB.gif)](https://i.imgur.com/WISydCB.gif)
 
 ## Power editing - Multiple undo and redo
 
@@ -255,7 +259,7 @@ This is what prompted Bram Moolenaar to write vim in the first place.
 But nowadays this is standard feature in all web based drawing tools,
 Google docs and so on.
 
-[![Multiple undo/redo](gifs/multiple-undo.gif)](https://youtu.be/58EWeEXzSwg)
+[![Multiple undo/redo](https://i.imgur.com/42jVKYn.gif)](https://i.imgur.com/42jVKYn.gif)
 
 Pressing `u` will undo and `Ctrl-r` both in command mode will redo.
 
@@ -289,7 +293,7 @@ Remember to
 
 before printing to html.
 
-[![PDF & HTML output of source](gifs/hardcopy.gif)](https://youtu.be/8ul0caRHz6Y)
+[![PDF & HTML output of source](https://i.imgur.com/7ioKSAw.gif)](https://i.imgur.com/7ioKSAw.gif)
 
 ## Using yank registers
 
@@ -299,7 +303,7 @@ are copying text and cutting , deleting and pasting multiple times.
 The `:reg` colon command lists all the copy buffers which you can use to
 retrieve some accidental edit or deletion.
 
-[![Copy registers](gifs/using-yank-registers.gif)](https://youtu.be/GwsZ4sMueAk)
+[![Copy registers](https://i.imgur.com/4RFqbmD.gif)](https://i.imgur.com/4RFqbmD.gif)
 
 Obviously this changes between vim sessions. If you have multiple vim
 edits simultaneously the reg will change between them.
@@ -318,7 +322,7 @@ easy to work with Vim.
 Unlike the magic `dd` and other things that do not show any visual
 feedback.
 
-[![Using 'v' command](gifs/using-v-command.gif)](https://youtu.be/GtVmGIat8Rk)
+[![Using 'v' command](https://i.imgur.com/X8zaKEM.gif)](https://i.imgur.com/X8zaKEM.gif)
 
 Once you copy you can paste with `p` as usual.
 
@@ -342,7 +346,7 @@ something.
 
 I also use line numbers for the same reason. 
 
-[![Syntax highlight and line numbers](gifs/syntaxhighlight.gif)](https://youtu.be/nOPe1dxn3TQ)
+[![Syntax highlight and line numbers](https://i.imgur.com/dxo1UTr.gif)](https://i.imgur.com/dxo1UTr.gif)
 
 Coding can be intense labor and very demanding on your nerves. With
 syntax highlighting you can simplify and focus.
@@ -388,7 +392,7 @@ But I also have `:se textwidth=72` for similar reasons.
 You don't want the text files that do not wrap at line boundaries,
 usually 72 characters.
 
-[![Enable spell check](gifs/spellcheck.gif)](https://youtu.be/Y0N6j9iQT3I)
+[![Enable spell check](https://i.imgur.com/5Pn8BY5.gif)](https://i.imgur.com/5Pn8BY5.gif)
 
 We are not talking of vimrc customizations in this book. That is a
 separate topic on its own.
@@ -411,7 +415,7 @@ indentation for most languages.
 But for javascript I use `js-beautify` and use the colon command and
 pipe it using the shell.
 
-[![Indent source code](gifs/indentation.gif)](https://youtu.be/dre6oMkiqpY)
+[![Indent source code](https://i.imgur.com/QOh7UMR.gif)](https://i.imgur.com/QOh7UMR.gif)
 
 For most languages however, the key strokes `gg`, `v`, `G`, `=` will
 indent the whole file.
@@ -426,7 +430,7 @@ Joining multiple lines I learnt by accident.
 Like most vim users. We use `j` for moving around the buffer and when
 the caps lock is on, it ends up joining lines.
 
-[![Join adjacent lines](gifs/join-lines.gif)](https://youtu.be/EcORiFphYz8)
+[![Join adjacent lines](https://i.imgur.com/Ac7jY2L.gif)](https://i.imgur.com/Ac7jY2L.gif)
 
 But that is useful in case we want to do shell scripting or something
 which does not work with line breaks between command invocations.
@@ -444,7 +448,7 @@ This is used with motion commands and so, using `v` is ideal.
 
 Or you could use the `g` command too.
 
-[![Invert case using ~](gifs/case-inversion.gif)](https://youtu.be/BuHqXMtrr5c)
+[![Invert case using ~](https://i.imgur.com/g0iB8Ly.gif)](https://i.imgur.com/g0iB8Ly.gif)
 
 This chapter was written with a view of introducing motion commands.
 
@@ -464,7 +468,7 @@ looking no different from spaces.
 Or we might wonder if the line wrapped around or if there is really a
 new line.
 
-[![Show tabs and newlines](gifs/detecting-tabs-newlines.gif)](https://youtu.be/N6yFv1k9W9M)
+[![Show tabs and newlines](https://i.imgur.com/ZkO1V5O.gif)](https://i.imgur.com/ZkO1V5O.gif)
 
 In such cases this colon command
 

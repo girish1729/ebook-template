@@ -1,13 +1,13 @@
 ---
 title:
 - type: main
-  text: 50 Linux command lines
+  text: Vim cookbook
 creator:
 - role: author
   text: Girish Venkatachalam
-description:  Simple command lines I use
+description:  Vim cookbook with videos for each chapter
 rights: CC0 license
 language: en-US
 stylesheet: epub.css
-cover-image: covers/linux-command-lines.png
+cover-image: covers/vim-cookbook.png
 ...

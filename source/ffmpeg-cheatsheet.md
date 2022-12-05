@@ -162,7 +162,7 @@ To replace the first 90 seconds of audio with silence:
 ffmpeg -i in.mp4 -vcodec copy -af "volume=enable='lte(t,90)':volume=0" out.mp4
 ```
 
-To replace all audio between 1'20" and 1'30" with silence:
+To replace all audio between 1:20 and 1:30 with silence:
 
 ```shell
 $ ffmpeg -i in.mp4 -vcodec copy -af "volume=enable='between(t,80,90)':volume=0" out.mp4
@@ -506,3 +506,15 @@ $ ffmpeg -i in.mp4 -vcodec copy -af "volume=enable='lte(t,90)':volume=0" out.mp4
 $ ffmpeg -i in.mp4 -vcodec copy -af "volume=enable='between(t,80,90)':volume=0" out.mp4
 ```
 
+- Dump video code, duration etc..
+
+```shell
+ $ ffmpeg -hide_banner -filter:v idet -frames:v 100 -an -f rawvideo -y /dev/null -i VIDEO.mp4
+```
+
+- Boost volume of your song
+   (4 is 4 times, so this could lead to clipping)
+
+```shell
+ $ ffmpeg -i input.mp3 -filter:a "volume=4.0" output.mp3
+```
