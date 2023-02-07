@@ -1,13 +1,13 @@
 ---
 title:
 - type: main
-  text: Vim cookbook
+  text: Solopreneur lifestyle in 2023
 creator:
 - role: author
   text: Girish Venkatachalam
-description:  Vim cookbook with videos for each chapter
+description:  Solopreneur's way to becoming digital nomad
 rights: CC0 license
 language: en-US
 stylesheet: epub.css
-cover-image: covers/vim-cookbook.png
+cover-image: covers/solopreneur-howto-in-2023.png
 ...

@@ -118,7 +118,7 @@ $ ffmpeg -i in.mp4 -vf select='between(t,1,5)+between(t,11,15)' -vsync 0 out%d.p
 To extract one frame per second only:
 
 ```shell
-$ ffmpeg -i in.mp4 -fps=1 -vsync 0 out%d.png
+$ ffmpeg -i in.mp4 -r 1 -vsync 0 out%d.png
 ```
 
 ## Rotate a video
