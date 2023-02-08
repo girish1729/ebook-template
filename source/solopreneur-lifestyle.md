@@ -1158,3 +1158,318 @@ Creating a business is about making new meaning.
 It is about making your dreams bloom and alongside also make bank.
 
 Learn to enjoy the process first and foremost.
+
+## Lifestyle changes
+
+The minute your paycheck goes from a big number like 400,000$ a year to
+zero obviously your lifestyle has to change too.
+
+The way I see it, well it is kind of like cutting down fat.
+
+One can get by with a very tiny amount of money if you develop healthy
+lifestyle.
+
+For workaholics and well planned folks which are the main market for
+solopreneurship frugal living should never post a challenge.
+
+However that said, it does help in lots of other ways too to live
+minimally.
+
+Minimalism is the mantra of greatness.
+
+Simple living and high thinking.
+
+Ok jokes aside , it does pay to figure out where cash outflow is going
+and be on the guard.
+
+Spending for biz day to day operations and activities like marketing and
+promotion and software tools for systems also kept at a minimum as we
+see in this book.
+
+You must brace for a big lifestyle change and perhaps sell off your car
+or something.
+
+But once you succeed you can buy it back.
+
+That is how money works.
+
+But the psychological impact that leaving 9-5 has on oneself is the most
+endearing, the most important shift in my opinion.
+
+Long ago in 2005 when I stopped working, in the next 1.5 months I could
+feel as though I had kept a big burden off my shoulders.
+
+The feeling was ecstatic. You ought to experience it first hand to know.
+
+I cannot explain with words.
+
+The feeling is very personal.
+
+I had my questions about survival and incomes, all that is fine, but the
+very fact that you were missing so much in life is amazing in itself.
+
+Also acquiring some physical training routine like yoga or gymming will
+help you reduce the stress and build up mental muscle as well.
+
+I assure you, you are going to need a lot of mental muscle.
+
+Startup is all about guts and more guts.
+
+As Elon Musk says, most people are unaware how capable they really are.
+
+I have evolved myself to do all sorts of things over the 15 odd years I
+have been solo.
+
+I have tried every trick in the book to survive. You can do it too.
+
+In addition to all that, the very fact that you can thrive without a
+paycheck itself fills you up with a lot of boldness.
+
+# Do not make this mistake
+
+I ended up freelancing on upwork and it gave me a large chunk of cash
+but although it helped me upgrade my lifestyle, build my house and
+purchase my car, it still was not liberating.
+
+Over a long period you start feeling there really is no future in
+freelancing.
+
+Also scams like Crosswork are scary. They promise you big payments but
+if you Google for it or read Glassdoor reviews you will know what I am
+saying.
+
+As Dan Koe says freelancing to leave 9-5 puts you back in the same place
+you started out from.
+
+As they say in cricket, back to pavilion.
+
+Not a very nice thing to do.
+
+Also in business,one must always do things that compound over time. If
+you sell time for money, this will never happen.
+
+Instead of being a corporate slave you are now slave to the client in
+question.
+
+## What is business compounding?
+
+The idea of compounding must be understood very carefully.
+
+Consider the following.
+
+You are going to be doing the things that multiply like virus or
+bacteria.
+
+I am not talking about exponential growth but a hockey stick pattern.
+
+Initially you will struggle to earn even 10$.
+
+But once the flow starts it will build up in a hockeystick pattern.
+
+Just think of twitter follower growth.
+
+Till you get to 2000 followers it will be very difficult. You also get
+very little income opportunities.
+
+But once you cross that threshold getting to 40,000 is not a big deal
+since you get a lot more surface area.
+
+Similarly if you choose your business carefully you can observe similar
+pattern of growth.
+
+After all twitter follower count is just a number on the screen.
+
+So is your bank balance.
+
+Just a number.
+
+## Abundance mindset
+
+As long as your mindset towards money and the relationship you hold with
+it does not change you shall continue to be poor and stay broke.
+
+This is nature's law. Not mine.
+
+Developing an abundance mindset takes years.
+
+I always say that the heart, the mind and the brain all have different
+timelines, they are always out of phase with a huge lag with one
+another.
+
+That is why I never fear discussing my ideas and fear that anyone would
+steal it, if your idea is so weak and if you don't have a moat then you
+are going to fail anyway.
+
+So you should build a very symbiotic and a broad based approach towards
+cash.
+
+It is also called as playing the infinite game.
+
+## Some business ideas that compound over time
+
+This is not a complete list. Just some inspiration for you.
+
+These are what I would consider if I were you.
+
+- Publishing digital product on gumroad
+- Selling ebook on amazon
+- Selling high ticket cohort or 1:1 course
+- Making money with substack subscriptions
+- any B2B SaaS
+
+The list is endless.
+
+Remember, Internet is a massive medium. If you can reach 5 people you
+can reach 5000 people with free word of mouth marketing.
+
+So even if you charge 10$ per sale this will explode.
+
+If you don't believe me, ask Daneil Vasallo on how he crossed a million
+on gumroad.
+
+This is very real.
+
+## Cases studies
+
+### Kevin B Parry - stop motion animator
+
+Stop motion animation is not something a lot of people have heard about.
+It is basically taking videos at home with some creativity and magic.
+
+The sort of CGI that Hollywood studios do but he is a one man show, a
+solopreneur like you and me.
+
+As a single player with zero employees or any support he is able to
+build a really massive fan base.
+
+This is what he says in his website.
+
+
+>I make videos ads that people want to watch more than once. 
+
+>My stop-motion animation and visual effects illusions are perfectly suited for scroll-stopping ads - whether posted to my channels or for your own media spend.
+
+>Check out my social media: Instagram (1.3M), TikTok (2.3M), YouTube (1.7M), LinkedIn (105k), Twitter (190k)
+
+So clearly he has mastered the attention game and done really well for
+himself.
+
+For the rest of us it is a grind to the top.
+
+He also says it took him 12 years on Twitter to get the following he
+has.
+
+Nothing is easy for online success, but doing the grind, putting in the
+reps and showing the passion in what you do and how you show your work
+matters a lot.
+
+
+### Justin Welsh - Medical software consulting
+
+This is what he says in his home page.
+
+>Over the last decade, I've helped build two $50M+ ARR companies, teams of 150+ people, and raise over $300M in venture capital.
+
+>Then, in 2019, I burned out.
+
+>So, my wife and I quit our high-paying jobs and decided to completely redesign our lives with more intention. We bought a house in the Catskill Mountains in NY and drove across the country to begin our new lives.
+
+>Now I run a boutique advisory firm for entrepreneurs and create digital products for creators.
+
+He is a big source of inspiration for Twitterati as he is seen as one of
+the most successful entrepreneurs clocking in close to a million in
+annual revenue operating solo.
+
+He also outlines his content creation process.
+
+He does not have too many products or interests, only a Linkedin
+coaching program and he earns by getting leads consulting in his medical
+industry.
+
+Perhaps his location and previous work experience plays a role in his
+success?
+
+Remember, each story is an inspiration for us. We cannot do what they
+did and succeed. Each story is different. Let us look at another one.
+
+## Daniel Vassallo - Gumroad creator that crossed a million in revenue
+
+He is ex AWS employee, a software developer earning half a million in
+salary and just like rest of us quit one fine morning.
+
+He had bills to pay, a family to take care of and he would have settled
+on a lifestyle suiting his insane incomes whilst working.
+
+But he latched on to his cockroach approach that I talk about a lot in
+this book.
+
+He went about treating each business initiative as a stepchild and not
+as a serious obsession and by derisking his businesses at same time
+without spreading himself too thin he walked the tightrope and made it
+big.
+
+He is a big inspiration on Twitter too.
+
+He only has a handful of gumroad products and they all clock very high
+downloads and sales.
+
+He is also popular guest on several podcasts and I recommend the one
+with Courtland Allen of indiehackers.
+
+By the way all solopreneurs are Indie hackers too as we are all
+bootstrapped.
+
+## Jay Clouse - Founder of creator science podcast channel
+
+He is another Twitter Guru and operates solo too.
+
+This is what he claims in his website www.jayclouse.com
+
+>In 2020, I started my podcast Creative Elements, a narrative interview show exploring how remarkable creators found creative independence. It quickly became the most popular project I've ever made!
+
+>Today, Creative Elements has nearly 1 million downloads and has been featured by Apple Podcasts, Stitcher, Pocket Casts, and more.
+
+He has an audio engineer an ensemble of 4 people to assist in his
+solopreneur journey.
+
+But I look at it more as a small help he gets for doing his creative
+work.
+
+He could have chosen to hire them remotely as well.
+
+## Dan Koe - Twitter entrepreneur
+
+I dunno how to categorize Dan Koe.
+
+He is all over the place and a great voice for getting mental clarity
+and focus.
+
+He talks about deep work, staying away from 9-5 as well as freelancing.
+
+He is all over youtube and documents how he grew his online presence and
+he also makes a significant chunk of change by selling his products
+online.
+
+I find his tweets exceptionally well written and regularly watch his
+youtube videos to get a grasp on the creator journey.
+
+## JK Molina - the ghost writer extraordinaire
+
+JK Molina is the favorite poster boy of Twitter success.
+
+He tried to spread a movement,
+
+**Likes ain't cash**
+
+And writes at least one thread a day to motivate people to make money on
+Twitter and monetize the audience and not focus on vanity metrics like
+engagement, likes, shares and follower counts.
+
+He asks people to only care for monetization and leadflow.
+
+If there is one guy you wish to emulate of all the examples I gave it
+must be JK. He lives in Gautemala and claims how from the third world
+you can make first world incomes if you crack Internet marketing and
+solopreneurship.
+
+
