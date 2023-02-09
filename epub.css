@@ -36,16 +36,16 @@
 
 body {
   margin: 5%;
-  font-size: medium;
+  font-size: small;
   font-family: Roboto;
-  line-height: 2.75;
+  line-height: 1.75;
 }
 
 code { font-family: monospace; }
 
 h1 { text-align: left; color: black; }
 h2 { text-align: left; color: blue; }
-h3 { text-align: left; }
+h3 { text-align: left; color: red; }
 h4 { text-align: left; }
 h5 { text-align: left; }
 h6 { text-align: left; }

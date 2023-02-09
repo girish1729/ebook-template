@@ -1,11 +1,11 @@
 ---
 title:
 - type: main
-  text: Solopreneur lifestyle in 2023
+  text: How to become a Solopreneur in 2023
 creator:
 - role: author
   text: Girish Venkatachalam
-description:  Solopreneur's way to becoming digital nomad
+description: Solopreneur's way to becoming a digital nomad 
 rights: CC0 license
 language: en-US
 stylesheet: epub.css

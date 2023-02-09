@@ -1,4 +1,6 @@
-# Solopreneur lifestyle
+# Solopreneur Howto for 2023
+
+![solo](https://imgur.com/YUxiQC8.jpg)
 
 Starting a business in 2023 is not hard.
 
@@ -114,23 +116,28 @@ massively beyond a few thousand fans.
 Getting that far is a lot of effort, but social proof is always hard to
 get.
 
+Doing some free work to get some testimonials is the right approach in
+the beginning.
+
 ## Audience building
 
 To build a big community of followers is no mean task.
 
 Remember. People buy from you after they have seen you 7 times on
-average .
+average. It is your job to increase your visibility online. Comment
+under big accounts and befriend creators with authority.
 
-This is not what I say. This is what market research tells us.
+I also benefited by some 1-on-1 calls with people. Always keep your
+appointment free for people to book calls. I use calendly for it.
 
 And you need not be present all over the Internet. A platform like
 Twitter is quite enough. Focus is key.
 
 I found Twitter most beneficial for business as people are always talking
-about money, selling, business development.
+about money, selling and business development.
 
 Other platforms never interested me that much. Twitter also has the
-highest number of high networth individuals who can give you vast sums
+highest number of high net worth individuals who can give you vast sums
 of money.
 
 On top of all that Twitter is full of intellectuals and short form
@@ -139,6 +146,8 @@ content be it videos or text are the rage in 2023.
 So you should be leveraging it.
 
 ## Always niche down
+
+![niche](https://i.imgur.com/AHwQof2.jpg)
 
 As the saying goes __the riches are in the niches__.
 
@@ -174,6 +183,8 @@ social proof too. So is the raw follower count.
 
 Don't be misled by Twitter gurus saying otherwise.
 
+Be like everybody else and you will never grow.
+
 ## Finding your market
 
 In Twitter you don't find the market. The market finds you.
@@ -190,6 +201,73 @@ Trudeu does it so effortlessly.
 
 All it takes is foresight and correct understanding of how the Internet
 based attention game works in 2023.
+
+## Market sophistication levels
+
+While doing marketing and in sales calls it pays to know the market
+awareness levels of your prospects.
+
+Eugene Schwarz came up with this idea long ago and is being used widely
+by marketers and other business people.
+
+They are:
+
+- Unaware
+- Problem aware
+- Solution aware
+- Product aware
+- Fully aware
+
+It is hard to predict what percentage of your target in Twitter audience
+or elsewhere fits into one of these levels.
+
+Let me define them for you first.
+
+Unaware is someone who needs to be educated on what problem your product
+or service solves.
+
+Problem aware is someone that is aware of the problem you are solving
+but does not know you sell the solution.
+
+Solution aware is someone who knows similar solutions but does not know
+anything about what you sell.
+
+Product aware knows your product but is not sure whether to buy from
+you.
+
+Fully aware is nearly bought. All you need to do to sell to him/her is
+just create an offer that makes sense.
+
+All this theory is good in paper but applying them when communicating in
+a broadcast medium like Twitter or social media is quite hard.
+
+We must tweak our message to address all these categories whilst writing
+sales copy. Be it in your website or twitter.
+
+## The sales process
+
+Once you do the marketing and promotions right and are also active with
+a recognizable personal brand sales is just answering questions,
+handling objections and delivering a guarantee.
+
+Your social media presence and testimonials should be so powerful that a
+sales call is not even necessary.
+
+Of course gumroad sales happen without you having to do anything at all.
+
+But most sales calls result in too much talking to convince the buyer.
+That pushy approach will not work in 2023 , at least not with a
+warm audience like Twitter with people buying what you sell more for you
+than what you offer.
+
+For them the fact that YOU are the one selling is convincing enough to
+buy. They trust you and so will buy from you.
+
+So selling should be just playing role of a doctor in identifying their
+problem and letting them talk. Just guiding through the buying process
+and building a personal connection should be the goal.
+
+Not hard selling.
 
 ## How large is your market?
 
@@ -213,7 +291,18 @@ was a big metric before the Internet market was a reality.
 
 Moreover we are constantly validating our ideas as we build.
 
+Getting a couple of testimonials for social proof by giving away your
+product or service for free is the right approach.
+
+Then you can start charging.
+
+Also understanding your customer needs by getting on calls with them
+once again free of cost will help you tweak the offer and message
+correctly by promoting your product or service once a week or so.
+
 ## Identifying what the market needs
+
+![market](https://i.imgur.com/wKwtR9C.jpg)
 
 In order to know what works and what does not you should focus on ONE
 single pain point.
@@ -230,7 +319,7 @@ expense of repeating yourself.
 Over time the message gets across to the marketplace that you have a
 solution.
 
-You may adopt the PAS model if you feel like. Problem, Agitate, Solve.
+You may adopt the PAS model if you feel like. Problem, Agitate, Solution.
 
 ## Working on the Right problem
 
@@ -241,7 +330,7 @@ We shall talk about pricing later, but the point is that the main pain
 point, the thing that keeps your prospects awake at night must be solved
 in a perfect fashion.
 
-It does not matter what your soloepreneur journey is going to be.
+It does not matter what your solopreneur journey is going to be.
 
 Are you a tech problem solver, are you writing a book or creating
 something else,a digital course or some Twitter business.
@@ -326,6 +415,8 @@ after you have ensured everything else.
 
 ## When is it done?
 
+![done](https://i.imgur.com/TPvKJEO.jpg)
+
 At least in software there is never a time when something is truly
 finished. This is true in case of digital products also.
 
@@ -401,7 +492,7 @@ Internet is a collaborative medium, never forget.
 
 Any business is risky. Like most other things in life.
 
-We must embrace to live with it. Daniel Vasallo says claims in his
+We must embrace to live with it. Daniel Vassallo says claims in his
 portfolio of small bets thread that it is much better to embrace the
 uncertainty of variable income.
 
@@ -470,7 +561,8 @@ Each business must institute its own systems.
 
 Gumroad does some things for you but many twitter based businesses have
 either convertkit or some other email automation and you can refer to
-Russel Brunson for sales funnels. A place like clickfunnels could guide
+Russel Brunson for sales funnels. A place like
+[clickfunnels](https://www.Clickfunnels.com) could guide
 you further.
 
 ## Price paradox
@@ -504,6 +596,8 @@ You can never know until you try.
 
 ## Do You Need  biz partners?
 
+![partners](https://i.imgur.com/RhsMJIy.jpg)
+
 What is the point in a solopreneur journey if all the work is done
 alone?
 
@@ -523,7 +617,7 @@ By all means avoid equity. It is not worth it.
 
 ## Will you survive?
 
-It is important to think like a cockroach as David Vasallo says.
+It is important to think like a cockroach as David Vassallo says.
 
 Try to somehow survive. Somehow get prepayment from customers.
 
@@ -581,7 +675,7 @@ successful, lots of changes will happen.
 You can quite easily tackle this.
 
 When money is on the line you will do it, no external push or motivation
-needed.
+is needed.
 
 ## Building right
 
@@ -595,7 +689,7 @@ hours a day and make good money.
 So always be careful what you work on.
 
 Once again I would like to remind you of the role played by randomness
-in the portfolio of small bets idea by Daniel Vasallo.
+in the portfolio of small bets idea by Daniel Vassallo.
 
 You can never know what works till you go out and try it out.
 
@@ -662,6 +756,8 @@ Never stop.
 
 ## Why Relationships Matter?
 
+![relationships](https://i.imgur.com/RhsMJIy.jpg)
+
 Remember, social media selling is all about keeping relationships
 intact.
 
@@ -704,7 +800,7 @@ But you can make up for churn in two ways:
 
 You can do both and see what fits better with your business.
 
-## PRICING: SUBSCRIPTIONS, PLANS, AND OTHER FINANCIAL CHALLENGES
+## Pricing: Plans and subscriptions
 
 It is a big deal to get pricing right.
 
@@ -784,7 +880,7 @@ in the industry.
 
 When people pay a lot of money upfront they must see some advantage.
 
-Most importantly it gets you a lot of cashflow which is oxygen for your
+Most importantly it gets you a lot of cash flow which is oxygen for your
 business.
 
 So take it with both hands and have variable pricing models.
@@ -818,7 +914,7 @@ And what don't move the needle.
 
 In order to know for sure you should measure, optimize and improve.
 
-Daniel Vasallo always comes up with his sales graphs which he builds
+Daniel Vassallo always comes up with his sales graphs which he builds
 from his gumroad sales every year and notice inflection points.
 
 Such trends are normal in SEO as well.
@@ -849,7 +945,7 @@ it is also more credible.
 
 So try to build referral into the business from day one.
 
-this also needs a bit of iteration as we must be able to tie this into
+This also needs a bit of iteration as we must be able to tie this into
 the offer and possibly offer a commission or discount to incentivize.
 
 Getting gumroad star ratings on what you sell is an example.
@@ -861,6 +957,8 @@ You can do what fits your business best.
 
 ## Surviving a Recession as a Bootstrapped Business 
 
+![survival](https://i.imgur.com/lcxEOwv.jpg)
+
 Bootstrapping is a constant grind and a cockroach existence for several
 years.
 
@@ -870,12 +968,12 @@ a tech downturn or financial markets crash or a recession of sorts.
 To account for such contingencies you can perhaps come up with some
 freelancing or some other revenue stream to fit into this danger.
 
-For example Daniel Vasallo sells his wood carpentry skills.
+For example Daniel Vassallo sells his wood carpentry skills.
 
 When you have a Twitter audience and a personal brand you can sell
 anything.
 
-## MARKETING, promotion AND SALES
+## Marketing, promotion & Sales
 
 ### What is marketing?
 
@@ -958,7 +1056,7 @@ business priorities do not change with shareholder interests.
 
 There are no stake holders save you.
 
-## How to get constant cashflows?
+## How to get constant cash flows?
 
 Being stable in your business enterprise is very challenging when there
 is massive swings in income month on month.
@@ -971,7 +1069,14 @@ same time.
 So try to get some low maintenance business to keep the kitchen fires
 burning.
 
-## Customer Service at Scale: Helping Those Who Helps Themselves
+When leads come try to get some pre payment. This may not always work
+but getting cash flow in early days of survival is key. And the hardest
+thing for solopreneurs.
+
+This is why it makes sense to start monetizing early in your Twitter
+game.
+
+## Helping customers get support
 
 You should try to get support in autopilot.
 
@@ -995,7 +1100,7 @@ money.
 
 Nothing social about that though.
 
-## Seeing Through Your Customer’s Eyes
+## Seeing thro' your customer’s Eyes
 
 As we have seen before we do not see pricing and value from the
 customer's eyes.
@@ -1026,12 +1131,12 @@ that. So is JK Molina and Max and many others.
 
 You need people to have a positive vibe with you.
 
-## BUILDING A MATURE BUSINESS
+## Is the biz mature now?
 
 A serious business from a tiny attempt is something that takes years to
 form just like a personal brand.
 
-People like Justin Welsh and Daniel Vasallo make millions as
+People like Justin Welsh and Daniel Vassallo make millions as
 solopreneurs.
 
 You can operate solo for ever or get some help in case you cross
@@ -1048,7 +1153,9 @@ is completely different.
 And we ought to decide based on the current situation. Nothing can be
 predicted.
 
-## BUILDING A BRAND
+## Building a personal branding
+
+![brand](https://i.imgur.com/O9KMpPm.jpg)
 
 No matter what you do online a brand is a must.
 
@@ -1098,7 +1205,6 @@ Framing is how you agitate the pain point of the customer you solve.
 
 You need to dial in on both to be effective.
 
-## Made to Stick: Shaping an Extensible Product 
 
 In order to stay relevant and be making money your product ought to
 evolve with the times.
@@ -1125,7 +1231,7 @@ You simply don't have the luxury of failure.
 
 Be a boat, not a ship.
 
-## Staying in Touch with Your Market
+## Staying in touch with your market
 
 In Twitter you post daily and stay in touch and be relevant.
 
@@ -1253,6 +1359,8 @@ question.
 
 ## What is business compounding?
 
+![compounding](https://i.imgur.com/xMaO12e.jpg)
+
 The idea of compounding must be understood very carefully.
 
 Consider the following.
@@ -1324,14 +1432,19 @@ can reach 5000 people with free word of mouth marketing.
 
 So even if you charge 10$ per sale this will explode.
 
-If you don't believe me, ask Daneil Vasallo on how he crossed a million
+If you don't believe me, ask Daneil Vassallo on how he crossed a million
 on gumroad.
 
 This is very real.
 
-## Cases studies
+## Case studies
+
+![case studies](https://i.imgur.com/7bE9Je4.jpg)
 
 ### Kevin B Parry - stop motion animator
+
+	
+![Kevin](source/pics/kevin-parry.jpg)
 
 Stop motion animation is not something a lot of people have heard about.
 It is basically taking videos at home with some creativity and magic.
@@ -1366,6 +1479,8 @@ matters a lot.
 
 ### Justin Welsh - Medical software consulting
 
+![Justin Welsh](source/pics/justin-welsh.jpg)
+
 This is what he says in his home page.
 
 >Over the last decade, I've helped build two $50M+ ARR companies, teams of 150+ people, and raise over $300M in venture capital.
@@ -1392,7 +1507,9 @@ success?
 Remember, each story is an inspiration for us. We cannot do what they
 did and succeed. Each story is different. Let us look at another one.
 
-## Daniel Vassallo - Gumroad creator that crossed a million in revenue
+### Daniel Vassallo - Gumroad creator that crossed a million in revenue
+
+![Daniel Vassallo](source/pics/daniel-vassallo.jpg)
 
 He is ex AWS employee, a software developer earning half a million in
 salary and just like rest of us quit one fine morning.
@@ -1419,7 +1536,9 @@ with Courtland Allen of indiehackers.
 By the way all solopreneurs are Indie hackers too as we are all
 bootstrapped.
 
-## Jay Clouse - Founder of creator science podcast channel
+### Jay Clouse - Founder of creator science podcast channel
+
+![Jay Clouse](source/pics/jay-clouse.jpg)
 
 He is another Twitter Guru and operates solo too.
 
@@ -1437,7 +1556,9 @@ work.
 
 He could have chosen to hire them remotely as well.
 
-## Dan Koe - Twitter entrepreneur
+### Dan Koe - Twitter entrepreneur
+
+![Dan Koe](source/pics/dan-koe.jpg)
 
 I dunno how to categorize Dan Koe.
 
@@ -1453,7 +1574,9 @@ online.
 I find his tweets exceptionally well written and regularly watch his
 youtube videos to get a grasp on the creator journey.
 
-## JK Molina - the ghost writer extraordinaire
+### JK Molina - the ghost writer extraordinaire
+
+![JK Molina](source/pics/JK-Molina.jpg)
 
 JK Molina is the favorite poster boy of Twitter success.
 
@@ -1472,4 +1595,38 @@ must be JK. He lives in Gautemala and claims how from the third world
 you can make first world incomes if you crack Internet marketing and
 solopreneurship.
 
+### Arvid Kahl - Author of Zero to sold and Bootstrapped founder
 
+![Arvid Kahl](source/pics/arvid-kahl.jpg)
+
+So in addition to being an inspiration he is also a guy who writes
+ebooks on similar topics.
+
+So he is definitely worth a Twitter follow.
+
+So in addition to learning what he does and how he earns his income from
+solo activities we can also buy his books and learn software solo
+business just like this book talks about all solo creators.
+
+He is also quite active on Twitter and runs his podcast which recently
+featured Sahil Lavingia of Gumroad once he did the price increase.
+
+As I said most of the people doing well and are popular also show their
+face and people recognize their voice and personality due to the volume
+of podcasts and videos they publish.
+
+So this maybe a clue that it is not just enough for our thoughts and
+ideas and work to be made public and reminded on Twitter from time to
+time, people associate better with your personality if you show your
+videos to them from time to time.
+
+## Where to go from here?
+
+This book was written from a potpourri of ideas.
+
+This was written in Twitter style in which attention spans are low but
+engagement is high if content is important.
+
+Hopefully you will enjoy the solopreneur journey.
+
+So have you resigned from your 9-5 yet?
